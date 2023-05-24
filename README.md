@@ -50,4 +50,4 @@ ____
 ## Component diagram
 ![Component diagram](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/a9e8778e-342f-4a5b-9ff9-08c9372eb9c9)
 ## Activity diagram
-![Activity diagram](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/8bb2fbfd-024f-41ec-bbe1-6b97c2fb0a07)
+![Activity diagram](https://github.com/KorArtV/Wine/assets/131380068/40ba19ef-93b5-4e22-959a-1769c2b93263)
